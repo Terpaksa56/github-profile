@@ -21,8 +21,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Terpaksa56/Terpaksa56/output/snake.svg" alt="Snake animation" />
 
 ###
