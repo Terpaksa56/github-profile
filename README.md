@@ -17,3 +17,12 @@
 
 #### 🌐 Socials:
 ![https://www.linkedin.com/in/bintangamirulmukminin/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Terpaksa56/Terpaksa56/output/snake.svg" alt="Snake animation" />
+
+###
