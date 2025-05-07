@@ -19,6 +19,12 @@
 ![https://www.linkedin.com/in/bintangamirulmukminin/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Terpaksa56/Terpaksa56/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Terpaksa56/Terpaksa56/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Terpaksa56/Terpaksa56/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
 
 <br clear="both">
