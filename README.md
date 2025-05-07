@@ -24,11 +24,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Terpaksa56/Terpaksa56/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Terpaksa56/Terpaksa56/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Terpaksa56/Terpaksa56/output/snake.svg" alt="Snake animation" />
-
-###
